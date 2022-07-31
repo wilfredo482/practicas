@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "init": "^0.1.2",
+    "link-module-alias": "^1.2.0",
+    "mongodb": "^4.7.0",
+    "netlify-cli": "^10.6.2",
+    "ntl": "^5.1.0",
+    "yup": "^0.32.11"
+  }
+}
